@@ -137,3 +137,20 @@ ex. Windows, UNIX, Linux, Mac OS | ios, Android 등등
 7-1.UI의 구분☆
 -CLI(command lone interface): 텍스트 형태로 이뤄진 인터페이스
 -GUI(Graphical User Interface): 마우스로 선택해 작업을 하는 그래픽 환경의 인터페이스
+-NUI(Natural User Interface):사용자의 말이나 행동으로 기기를 조작하는 인터페이스
+-VUI(Voice User Interface):사람의 음성으로 기기를 조작하는 인터페이스
+-OUL(Organic User Interface):모든 사물과 사용자간의 상호작용을 위한 인터페이스
+
+7-2.UI의 기본원칙☆☆
+-직관성: 누구나 쉽게 이해하고 사용할 수 있어야함
+-유효성: 사용자의 목적을 정확하고 완벽하게 달성해야 함
+-학습성: 누구나 쉽게 배우고 익힐 수 있어야함
+-유연성: 사용자의 요구사항을 최대한 수용하고 실수를 최소화해야함
+
+7-3.웹의 3요소
+-웹 표준
+-웹 접근성
+-웹 호환성
+
+7-4. UI 설계 도구☆
+-와이어프레임(WireFrame):레이아웃을 협의하거나 공유하기 위해 사용
