@@ -132,3 +132,8 @@ ex. Windows, UNIX, Linux, Mac OS | ios, Android 등등
 커뮤니케이션(협업), 상태, 활동,
 상호작용 개요, 타이밍
 #유시커 상활호타
+
+7.사용자 인터페이스
+7-1.UI의 구분☆
+-CLI(command lone interface): 텍스트 형태로 이뤄진 인터페이스
+-GUI(Graphical User Interface): 마우스로 선택해 작업을 하는 그래픽 환경의 인터페이스
