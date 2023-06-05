@@ -208,6 +208,7 @@ ex. Windows, UNIX, Linux, Mac OS | ios, Android 등등
 
 8-3. ISO/IEC 14598
 -반복성, 재현성, 공정성, 객관성
+#반재공객
 
 8-4. 국제 프로세스 품질 표준
 - ISO/IEC 9001
