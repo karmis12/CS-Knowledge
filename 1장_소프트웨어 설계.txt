@@ -219,8 +219,3 @@ ex. Windows, UNIX, Linux, Mac OS | ios, Android 등등
 - CMMI  i(Capability Maturity Model Integration): 조직차원의 성숙도를 평가하는 단계별 표현과 프로세스 영역별 능력도를 평가하는 연속적 표현이 있음
 
 9.소프트웨어 아키텍처☆
-
-
-
-
-
